@@ -5,6 +5,7 @@
 export const BRAND_NAME = "Trip It";
 export const SITE_TITLE = "Trip It";
 export const SITE_DESCRIPTION = "Two old kids just trip'n around OZ";
+export const LOGO = "/favicon.svg"
 
 // Tags Page Metadata, src/pages/tags/index.astro
 export const Tags_TITLE = "Trip It - All Tags";
