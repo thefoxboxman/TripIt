@@ -1,6 +1,11 @@
-## 🌍Language Versions / 语言版本
 
-🇺🇸[English](README.md) 🇨🇳[中文](README_CN.md)
+
+### ////////////////////////////////////
+## Source: https://github.com/inotelab/astroverse
+
+
+
+🇺🇸[English](README.md)
 
 ## 🚀 **AstroVerse**: An Astro Theme for Visual Storytelling
 
