@@ -1,9 +1,13 @@
 ## Source: https://github.com/inotelab/astroverse
 ## Live Demo: https://verse-astro.vercel.app/
 
-### Logo SVG Source: https://www.svgrepo.com/svg/317398/travel
+## Logo SVG Source: https://www.svgrepo.com/svg/317398/travel
 
-### Social Icon SVG source: https://tabler.io/icons/icon/
+## Social Icon SVG source: https://tabler.io/icons/icon/
+
+## Markdown Sytax: https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
+
+## Deploys auto from GitHub repo to Netily: https://tripitjnj.netlify.app
 
 ### ////////////////////////////////////
 
