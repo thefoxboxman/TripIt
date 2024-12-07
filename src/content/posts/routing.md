@@ -1,5 +1,6 @@
 ---
 title: Routing
+subtitle: mysubtitle
 slug: routing
 description: An intro to routing with Astro.
 category:

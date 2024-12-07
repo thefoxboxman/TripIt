@@ -1,5 +1,6 @@
 ---
 title: Integer quis auctor elit sed
+subtitle: mysubtitle
 slug: first-post0
 description: Lorem ipsum dolor sit amet
 category:

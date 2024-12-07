@@ -1,5 +1,6 @@
 ---
 title: Use a CMS with Astro
+subtitle: mysubtitle
 slug: use-cms
 description: How to use a CMS to add content to Astro
 category:

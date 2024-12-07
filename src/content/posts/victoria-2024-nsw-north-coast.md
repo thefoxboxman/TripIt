@@ -1,22 +1,40 @@
 ---
-title: Edgeg cgeg
-slug: first-post7
-description: Lorem ipsum dolor sit amet
+
+title: NSW Nth Coast
+subtitle: Victoria 2024
+slug: NSW-Nth-Coast
+description: First section of trip around Victoria 
 category:
-  - One
+  - Travel
 tags:
-  - Tailwind
-  - Integer
-  - Markdown
-pubDate: 2023-09-01
-cover: https://images.unsplash.com/photo-1578318043589-97a29602f7d4?q=80&w=1960&h=1102&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-coverAlt: AstroVerse-Lorem ipsum dolor sit amet
-author: VV
+  - Victoria_2024
+  - NSW_North_Coast
+  
+pubDate: 2024-10-21
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197166/Victoria%202024/NSW%20North%20Coast%202024/Ballina-NSW-Boulder-Beach_DSC6748-Edit_hylhvs.jpg
+coverAlt: Boulder Beach Ballina NSW
+author: John
+
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+
+<Image />
+ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
 Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+
+![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197166/Victoria%202024/NSW%20North%20Coast%202024/Ballina-NSW-Boulder-Beach_DSC6748-Edit_hylhvs.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
+  ***<p style="text-align:center;">Sliky water effect shot at Boulder Beach, Ballina***
+
+![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197176/Victoria%202024/NSW%20North%20Coast%202024/Lennox_Head_DSC6784_zvwrmp.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
+ ***<p style="text-align:center;">Lennox Head***
+
+![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197161/Victoria%202024/NSW%20North%20Coast%202024/Ballina_Surfers_Lennox_Head_DSC6797_aphsym.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
+ ***<p style="text-align:center;">Surfers at Lennox Head break***
+
+
+
 
 Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
 

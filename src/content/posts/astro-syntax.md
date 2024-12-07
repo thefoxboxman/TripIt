@@ -1,5 +1,6 @@
 ---
 title: Astro Syntax
+subtitle: mysubtitle
 slug: astro-syntax
 description: An intro to the .astro component syntax.
 category:

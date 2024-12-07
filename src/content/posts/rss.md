@@ -1,5 +1,6 @@
 ---
 title: Add an RSS feed
+subtitle: mysubtitle
 slug: add-an-rss-feed
 description: Add an RSS feed to your Astro site to let users subscribe to your content.
 category:

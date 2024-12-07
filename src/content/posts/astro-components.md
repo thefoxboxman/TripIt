@@ -1,5 +1,6 @@
 ---
 title: You can use components inside of other components
+subtitle: mysubtitle
 slug: components15
 description: the basic building blocks of any Astro project
 category:

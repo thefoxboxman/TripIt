@@ -1,5 +1,6 @@
 ---
 title: Share state between Islands
+subtitle: mysubtitle
 slug: share-state-between-islands
 description: Learn how to share state across framework components with Nano Stores.
 category:

@@ -1,6 +1,10 @@
 ## Source: https://github.com/inotelab/astroverse
 ## Live Demo: https://verse-astro.vercel.app/
 
+### Logo SVG Source: https://www.svgrepo.com/svg/317398/travel
+
+### Social Icon SVG source: https://tabler.io/icons/icon/
+
 ### ////////////////////////////////////
 
 

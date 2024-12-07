@@ -1,5 +1,6 @@
 ---
 title: Content Collections
+subtitle: mysubtitle
 slug: content-collections
 description: Content collections help organize your Markdown and type-check your frontmatter with schemas.
 category:

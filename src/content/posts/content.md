@@ -1,5 +1,6 @@
 ---
 title: Astro content
+subtitle: mysubtitle
 slug: content-astro
 description: Content collections help organize your Markdown and type-check your frontmatter with schemas.
 category:

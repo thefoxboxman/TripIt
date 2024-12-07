@@ -1,5 +1,6 @@
 ---
 title: Tailwind typography
+subtitle: mysubtitle
 slug: tailwind-typography
 description: The @tailwindcss/typography plugin is our attempt to give you what you actually want, without any of the downsides of doing something stupid like disabling our base styles.
 category:
@@ -71,7 +72,7 @@ Something a wise person once told me about typography is:
 
 It's probably important that images look okay here by default as well:
 
-![img](https://images.unsplash.com/photo-1556740758-90de374c12ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197166/Victoria%202024/NSW%20North%20Coast%202024/Ballina-NSW-Boulder-Beach_DSC6748-Edit_hylhvs.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
 
 Now I'm going to show you an example of an unordered list to make sure that looks good, too:
 

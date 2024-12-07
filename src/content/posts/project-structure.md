@@ -1,5 +1,6 @@
 ---
 title: Project Structure
+subtitle: mysubtitle
 slug: project-structure
 description: Learn how to structure a project with Astro.
 category:

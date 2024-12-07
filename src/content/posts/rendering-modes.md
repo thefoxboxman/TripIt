@@ -1,5 +1,6 @@
 ---
 title: Rendering Modes
+subtitle: mysubtitle
 slug: rendering-modes
 description: Rendering Modes
 category:

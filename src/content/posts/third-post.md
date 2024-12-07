@@ -1,5 +1,6 @@
 ---
 title: Third post
+subtitle: mysubtitle
 slug: third-post
 description: Lorem ipsum dolor sit amet.
 category:

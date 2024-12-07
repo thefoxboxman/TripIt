@@ -30,9 +30,9 @@ export function getCategoryMetadata(category: string) {
 
 // Header Links, src/components/Header.astro
 export const HeaderLinks = [
-  { href: "/category/One/1/", title: "One" },
-  { href: "/category/Two/1/", title: "Two" },
-  { href: "/category/Three/1/", title: "Three" },
+  { href: "/category/Travel/1/", title: "Travel" },
+  { href: "/category/Photography/1/", title: "Photography" },
+  // { href: "/category/Three/1/", title: "Three" },
 ];
 
 // Footer Links, src/components/Footer.astro
@@ -46,12 +46,17 @@ export const FooterLinks = [
 export const SocialLinks = [
   { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
   {
-    href: "https://twitter.com/inotelab",
-    icon: "tabler:brand-twitter",
-    label: "Twitter",
+    href: "https://bsky.app/profile/johndecosta.bsky.social",
+    icon: "tabler:brand-bluesky",
+    label: "BlueSky",
   },
   {
-    href: "https://github.com/inotelab",
+    href: "https://mastodon.social/@johndecosta",
+    icon: "tabler:brand-mastodon",
+    label: "Mastodon",
+  },
+  {
+    href: "https://github.com/thefoxboxman",
     icon: "tabler:brand-github",
     label: "GitHub",
   },

@@ -1,5 +1,6 @@
 ---
 title: Editor Setup
+subtitle: mysubtitle
 slug: editor-setup
 description: Set up your editor to build with Astro.
 category:

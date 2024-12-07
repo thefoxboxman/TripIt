@@ -1,5 +1,6 @@
 ---
 title: Contribute to Astro
+subtitle: mysubtitle
 slug: contribute-to-astro
 description: How to get involved and contribute to Astro.
 category:

@@ -1,10 +1,10 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection } from "astro:content"; 
 import BaseLayout from "@layouts/BaseLayout.astro";
 import HeroCard from "@components/HeroCard.astro";
 import Card from "@components/CommonCard.astro";
 import Pagination from "@components/Pagination.astro";
-import { SITE_TITLE, SITE_DESCRIPTION } from "@consts";
+import { SITE_TITLE,  SITE_DESCRIPTION } from "@consts";
 
 const allPosts = await getCollection("posts");
 allPosts.sort(
@@ -19,8 +19,12 @@ const totalPages = Math.ceil(allPosts.length / postsPerPage);
 const basePath = "/page/";
 ---
 
-<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <div class="grid grid-cols-1">
+<BaseLayout title={SITE_TITLE}   description={SITE_DESCRIPTION}>
+  
+  
+    
+  
+    <div class="grid grid-cols-1">
     <div class="col-span-1 mb-4">
       {firstPagePosts.length > 0 && <HeroCard post={firstPagePosts[0]} />}
     </div>

@@ -1,5 +1,6 @@
 ---
 title: Pages
+subtitle: mysubtitle
 slug: pages
 description: An introduction to Astro pages
 category:

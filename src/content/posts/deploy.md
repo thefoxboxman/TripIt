@@ -1,5 +1,6 @@
 ---
 title: Deploy your Astro Site
+subtitle: mysubtitle
 slug: deploy-your-astro
 description: How to deploy your Astro site to the web.
 i18nReady: true

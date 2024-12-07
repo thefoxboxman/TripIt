@@ -1,5 +1,6 @@
 ---
 title: Framework Components
+subtitle: mysubtitle
 slug: framework-components
 description: Learn how to use React, Svelte, etc.
 category:

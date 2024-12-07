@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+subtitle: mysubtitle
 slug: getting-started
 description: A basic intro to Astro.
 category:

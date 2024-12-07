@@ -1,5 +1,6 @@
 ---
 title: Eendpoint
+subtitle: mysubtitle
 slug: endpoint
 description: Learn how to create endpoints that serve any kind of data
 category:
