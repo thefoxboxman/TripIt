@@ -159,6 +159,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"victoria-2024-sydney-detour.md": {
+	id: "victoria-2024-sydney-detour.md";
+  slug: "Sydney-detour";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 };
 
 	};
