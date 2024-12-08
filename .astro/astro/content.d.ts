@@ -159,9 +159,16 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
-"victoria-2024-sydney-detour.md": {
-	id: "victoria-2024-sydney-detour.md";
-  slug: "Sydney-detour";
+"victoria-2024-nsw-south-coast.md": {
+	id: "victoria-2024-nsw-south-coast.md";
+  slug: "NSW_South_Coast";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"victoria-2024-sydney-bypass.md": {
+	id: "victoria-2024-sydney-bypass.md";
+  slug: "Sydney-bypass";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
