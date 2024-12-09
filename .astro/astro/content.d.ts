@@ -152,9 +152,44 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"posts": {
+"victoria-2024-east-gippsland.md": {
+	id: "victoria-2024-east-gippsland.md";
+  slug: "east-gippsland";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"victoria-2024-great-ocean-road-prt 1.md": {
+	id: "victoria-2024-great-ocean-road-prt 1.md";
+  slug: "Great_Ocean_Road_1";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"victoria-2024-great-ocean-road-prt2.md": {
+	id: "victoria-2024-great-ocean-road-prt2.md";
+  slug: "Great_Ocean_Road_2";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"victoria-2024-murray-river.md": {
+	id: "victoria-2024-murray-river.md";
+  slug: "Murray_River";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "victoria-2024-nsw-north-coast.md": {
 	id: "victoria-2024-nsw-north-coast.md";
   slug: "NSW-Nth-Coast";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"victoria-2024-nsw-return-trip.md": {
+	id: "victoria-2024-nsw-return-trip.md";
+  slug: "NSW_Return_Trip";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
@@ -166,9 +201,23 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"victoria-2024-south-gippsland.md": {
+	id: "victoria-2024-south-gippsland.md";
+  slug: "South_Gippsland";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "victoria-2024-sydney-bypass.md": {
 	id: "victoria-2024-sydney-bypass.md";
   slug: "Sydney-bypass";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"victoria-2024-wimmera-malley.md": {
+	id: "victoria-2024-wimmera-malley.md";
+  slug: "Wimmera_Malley";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
