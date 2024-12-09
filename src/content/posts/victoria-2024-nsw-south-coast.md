@@ -3,15 +3,15 @@
 title: NSW South Coast
 subtitle: Victoria 2024
 slug: NSW_South_Coast
-description: Going around the outside of Sydney through Dunedoo and Mudgee. 
+description: South coast chilling 
 category:
   - Travel
 tags:
   - Victoria_2024
   
 pubDate: 2024-10-24
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733615878/Victoria%202024/Sydney_Bypass/Map_Sydney_Bypass_qhtxka.png
-coverAlt: Map of route bypassing Sydney
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733721805/Victoria%202024/NSW%20South%20Coast/Map_NSW_Sth_Coast_huhpiq.jpg
+coverAlt: Map of South Coast Visit
 author: John
 
 
