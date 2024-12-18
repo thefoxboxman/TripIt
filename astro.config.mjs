@@ -16,9 +16,9 @@ export default defineConfig({
     defaultStrategy: 'viewport',
   },
 
-  experimental: {
-    contentCollectionCache: true,
-  },
+  // experimental: {
+  //   contentCollectionCache: true,
+  // },
 
   image: {
     remotePatterns: [

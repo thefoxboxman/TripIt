@@ -1,0 +1,75 @@
+{
+  "$ref": "#/definitions/posts",
+  "definitions": {
+    "posts": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "subtitle": {
+          "type": "string"
+        },
+        "pubDate": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "description": {
+          "type": "string"
+        },
+        "lastModified": {
+          "type": "string"
+        },
+        "cover": {
+          "type": "string"
+        },
+        "coverAlt": {
+          "type": "string"
+        },
+        "category": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "author": {
+          "type": "string"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "subtitle",
+        "pubDate",
+        "description",
+        "cover",
+        "coverAlt",
+        "category",
+        "tags",
+        "author"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

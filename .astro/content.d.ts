@@ -10,7 +10,7 @@ declare module 'astro:content' {
 }
 
 declare module 'astro:content' {
-	interface RenderResult {
+	export interface RenderResult {
 		Content: import('astro/runtime/server/index.js').AstroComponentFactory;
 		headings: import('astro').MarkdownHeading[];
 		remarkPluginFrontmatter: Record<string, any>;
@@ -103,7 +103,9 @@ declare module 'astro:content' {
 		collection: C,
 		id: E,
 	): E extends keyof DataEntryMap[C]
-		? Promise<DataEntryMap[C][E]>
+		? string extends keyof DataEntryMap[C]
+			? Promise<DataEntryMap[C][E]> | undefined
+			: Promise<DataEntryMap[C][E]>
 		: Promise<CollectionEntry<C> | undefined>;
 
 	/** Resolve an array of entry references from the same collection */
@@ -151,100 +153,24 @@ declare module 'astro:content' {
 	>;
 
 	type ContentEntryMap = {
-		"posts": {
-"victoria-2024-east-gippsland.md": {
-	id: "victoria-2024-east-gippsland.md";
-  slug: "east-gippsland";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-great-ocean-road-prt 1.md": {
-	id: "victoria-2024-great-ocean-road-prt 1.md";
-  slug: "Great_Ocean_Road_1";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-great-ocean-road-prt2.md": {
-	id: "victoria-2024-great-ocean-road-prt2.md";
-  slug: "Great_Ocean_Road_2";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-mornington_peninsular.md": {
-	id: "victoria-2024-mornington_peninsular.md";
-  slug: "South_Gippsland";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-murray-river.md": {
-	id: "victoria-2024-murray-river.md";
-  slug: "Murray_River";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-nsw-north-coast.md": {
-	id: "victoria-2024-nsw-north-coast.md";
-  slug: "NSW-Nth-Coast";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-nsw-return-trip.md": {
-	id: "victoria-2024-nsw-return-trip.md";
-  slug: "NSW_Return_Trip";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-nsw-south-coast.md": {
-	id: "victoria-2024-nsw-south-coast.md";
-  slug: "NSW_South_Coast";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-phillip_Isand.md": {
-	id: "victoria-2024-phillip_Isand.md";
-  slug: "South_Gippsland";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-south-gippsland.md": {
-	id: "victoria-2024-south-gippsland.md";
-  slug: "South_Gippsland";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-sydney-bypass.md": {
-	id: "victoria-2024-sydney-bypass.md";
-  slug: "Sydney-bypass";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-"victoria-2024-wimmera-malley.md": {
-	id: "victoria-2024-wimmera-malley.md";
-  slug: "Wimmera_Malley";
-  body: string;
-  collection: "posts";
-  data: any
-} & { render(): Render[".md"] };
-};
-
+		
 	};
 
 	type DataEntryMap = {
-		
+		"posts": Record<string, {
+  id: string;
+  render(): Render[".md"];
+  slug: string;
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">;
+  rendered?: RenderedContent;
+  filePath?: string;
+}>;
+
 	};
 
 	type AnyEntryMap = ContentEntryMap & DataEntryMap;
 
-	export type ContentConfig = never;
+	export type ContentConfig = typeof import("../src/content/config.js");
 }
