@@ -11,8 +11,8 @@ tags:
   - NSW_North_Coast
   
 pubDate: 2024-10-24
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733614021/Victoria%202024/NSW%20North%20Coast%202024/Map_Nth_NSW_Coast_owqaaw.png
-coverAlt: WikiCamps map of northern NSW Coast stage of trip
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197161/Victoria%202024/NSW%20North%20Coast%202024/Ballina_Surfers_Lennox_Head_DSC6797_aphsym.jpg
+coverAlt: Surfers at Lennox Head break
 author: John
 
 
@@ -25,6 +25,9 @@ author: John
 # Day 1 - 22nd Oct 
 
 ## Torringtom - Toowoomba Bypass - Warrego Highway - Logan Motorway - M1 - Ballina
+
+ ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733614021/Victoria%202024/NSW%20North%20Coast%202024/Map_Nth_NSW_Coast_owqaaw.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
+ ***<p style="text-align:center;">WikiCamps map of northern NSW Coast stage of trip***
 
   After a hectic month or so of visitors etc we packed up and headed off at 9am. It felt great to be back on the road.
 
@@ -50,7 +53,7 @@ author: John
 
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197166/Victoria%202024/NSW%20North%20Coast%202024/Ballina-NSW-Boulder-Beach_DSC6748-Edit_hylhvs.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
-  ***<p style="text-align:center;">Sliky water effect shot at Boulder Beach, Ballina***
+  ***<p style="text-align:center;">Silky water effect shot at Boulder Beach, Ballina***
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733197176/Victoria%202024/NSW%20North%20Coast%202024/Lennox_Head_DSC6784_zvwrmp.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Lennox Head***
