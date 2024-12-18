@@ -20,8 +20,15 @@ author: John
 
 
 <Image />
-ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
+
+# Day 4 - 25th Oct
+## South West Rocks - Cresent Head - Clarence Town
+
+We have decided to bypass Sydney by going out west trough Dunedoo, Mudgee and down to Goulburn.
+
+So big driving day to day. Popped into Crescent Head but there was no where to park the van anywhere near the headland. Made a note to check into the beach front caravan park on our return trip.
+Head south along the M1 and turned off onto Buckets Way towards Stroud. Then onto Limeburners Creek Rd to Clarence Town. We checked into the Williams River Holiday Park. Clarence Town is a pre-federation village on the banks of the Williams River. 
 
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628292/Victoria%202024/Sydney_Bypass/Clarence_Town_Bridge_DSC6916_vpcleg.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
@@ -29,6 +36,11 @@ ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628295/Victoria%202024/Sydney_Bypass/Clarence_Town_Old_Post_Office_DSC6907_shdrmv.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Clarence_Town_Old_Post_Office***
+
+ ### Day 5 - 26th Oct
+ #### Clarence Town - Denman - Merriwa - Dunedoo
+
+ Our first stop today was the super chic village of Denman. 
 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628287/Victoria%202024/Sydney_Bypass/Denman_House_DSC6924_rzmphz.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Denman_House***
@@ -44,8 +56,15 @@ ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
  ***<p style="text-align:center;">Denman__Street_Art***
 
 
+After Denman we popped into Merriwa to check out the  silo art.
+
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628279/Victoria%202024/Sydney_Bypass/Merriwa_Silo_Art_DSC6928_bvpapd.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Merriwa_Silo_Art***
+
+ Finally arrived in Dunedoo and parked up at the council caravan park. After Clarence Town and Denman we had expected Dunedoo to be switched on little place but it was a bit drab. It seems to be suffering the same fate of many small country towns. Unfortunately we had book 2 nights so we made our second day our first day off.
+
+ ### Day 6 - 27th Oct
+ #### Dunedoo (Day off)
 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628237/Victoria%202024/Sydney_Bypass/Dunedoo_Dunny_IMG_5877_qkqxbc.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Dunedoo_Dunny***
@@ -67,6 +86,11 @@ ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628266/Victoria%202024/Sydney_Bypass/Dunedoo_Silo_Art_4_DSC6975_vbtnwr.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Dunedoo_Silo_Art_4***
 
+### Day 7 - 28th Oct
+#### Dunedoo - Gulgong - Mudgee
+
+Gulgong is a historic goldmining town. Home town (sort of) of Henry Lawson
+
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628244/Victoria%202024/Sydney_Bypass/Gulgong_Church_P1064679_nsvbrg.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Gulgong_Church***
 
@@ -84,6 +108,7 @@ ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
  ***<p style="text-align:center;">Gulgong_Opera_House***
 
 
+Arrived into Mudgee the upmarket wine town. Stayed at the Mudgee Riverside Caravan Park. Had a great walk around. Went for a drive to a farm cheese shop to stock up on some local produce.
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628233/Victoria%202024/Sydney_Bypass/Mudgee_Main_Street_P1064682_cqslmb.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Mudgee_Main_Street***
 
@@ -113,9 +138,15 @@ ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627929/Victoria%202024/Sydney_Bypass/Mudgee_Vineyard_IMG_5892_rg9ctr.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Mudgee_Vineyard***
 
+### Day 8 - 29th Oct
+#### Mudgee - Ilford - Sofala - Oberon - Goulburn
+
+Another long driving day today. Passed though some picturesque countryside around Ilford.
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627927/Victoria%202024/Sydney_Bypass/Ilford_Counrtyside_IMG_5902_ugqksp.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Ilford_Counrtyside***
+
+ Then a smoko stop at Sofala the "oldest surviving" goldmining town in NSW.
 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627905/Victoria%202024/Sydney_Bypass/Sofala-6_P1401427_sgsp2k.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Sofala-Old Gold Town***
@@ -133,10 +164,12 @@ ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627909/Victoria%202024/Sydney_Bypass/Sofala_5_P1401424_mmoeht.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Sofala Collector***
 
+Some pretty stunning countryside around O'Connell in the southside of Bathurst which we basically bypassed. We spent 3 or 4 days in Bathurst a few years ago, so need to stop.
+
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627928/Victoria%202024/Sydney_Bypass/O_connell_counrtyside_IMG_5920_ilvptf.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">O'Connell_counrtyside***
 
-
+Our surprise for the day was the town of Oberon. Jenelle was in second heaven with all the flowers.
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627900/Victoria%202024/Sydney_Bypass/Oberon_Counrtyside_P1401488-Pano-Edit-Edit_kp36kd.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Oberon_Countryside***
 
@@ -155,6 +188,8 @@ ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627900/Victoria%202024/Sydney_Bypass/Oberon_Flowers_5_P1401475_agprri.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Oberon_Flowers_5***
+
+Late in the afternoon we checked into the lack luster South Goulburn Caravan Park. The best Goulburn has to offer according to wikiCamps. One of it's saving grace is that is close to the M31 onramp, it close to he Big Ram and it is close to Trappers Bakery. Trappers is never to be bypassed.
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627923/Victoria%202024/Sydney_Bypass/Goulburn_Big_Ram_IMG_5942_hdb1t8.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Goulburn_Big_Ram***

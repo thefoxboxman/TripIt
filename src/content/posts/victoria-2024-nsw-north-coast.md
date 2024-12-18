@@ -20,7 +20,9 @@ author: John
 
 
 <Image />
-# Day 1 - 22nd Oct 2024
+
+
+# Day 1 - 22nd Oct 
 
 ## Torringtom - Toowoomba Bypass - Warrego Highway - Logan Motorway - M1 - Ballina
 
@@ -28,7 +30,7 @@ author: John
 
   We checked into the Discovery Park for 2 nights.
 
-## Day 2
+## Day 2 - 23rd Oct 
 
   Up early morning to photograph the rocks, headlands and waves north of Ballina up to Lenox Head. This area is paradise. Awesome scenery. Goldilocks weather.
 
@@ -36,7 +38,7 @@ author: John
 
   Leaving Byron Bay to the trendy set we headed into the hinterland to visit the Killen Falls.
 
-  ## Day 3
+  ## Day 3 - 24th Oct
 ### Ballina - Brooms Head - Woolgoolga - Coffs Harbour - South West Rocks.
  From Ballina we headed to Brooms Head further south along the coast. Not to the actual town, but up a dirt road behind the coastal wetland to photograph a feature in the salt-pans call "The Tree of Life".
 
