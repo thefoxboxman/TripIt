@@ -11,8 +11,8 @@ tags:
   - Sydney_Bypass
   
 pubDate: 2024-10-25
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733615878/Victoria%202024/Sydney_Bypass/Map_Sydney_Bypass_qhtxka.png
-coverAlt: Map of route bypassing Sydney
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733627900/Victoria%202024/Sydney_Bypass/Oberon_Counrtyside_P1401488-Pano-Edit-Edit_kp36kd.jpg
+coverAlt: Oberon Countryside
 author: John
 
 
@@ -24,6 +24,9 @@ author: John
 
 # Day 4 - 25th Oct
 ## South West Rocks - Cresent Head - Clarence Town
+
+![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733615878/Victoria%202024/Sydney_Bypass/Map_Sydney_Bypass_qhtxka.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
+ ***<p style="text-align:center;">Map of route bypassing Sydney***
 
 We have decided to bypass Sydney by going out west trough Dunedoo, Mudgee and down to Goulburn.
 
@@ -95,7 +98,7 @@ Gulgong is a historic goldmining town. Home town (sort of) of Henry Lawson
  ***<p style="text-align:center;">Gulgong_Church***
 
  ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628253/Victoria%202024/Sydney_Bypass/Gulgong_Four_Mill_P1064659_p1cghk.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Gulgong_Four_Mill***
+ ***<p style="text-align:center;">Gulgong_Flour_Mill***
 
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733628254/Victoria%202024/Sydney_Bypass/Gulgong_Horse_Trough_P1064656_fawnph.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
