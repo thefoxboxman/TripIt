@@ -20,16 +20,17 @@ author: John
 
 <Image />
 
+## Goulburn - Batemans Bay - Victorian Border
 
 ## Day 9 - 30th Oct 
 
-### Goulburn - Batemans Bay - Victorian Border
+
 
 Drove down from Goulburn to Batemans Bay. What a great spot for a break.
 
-## Day 10 - 31st Oct
 
-Day off for housekeeping and chill'n.
+
+
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733721805/Victoria%202024/NSW%20South%20Coast/Map_NSW_Sth_Coast_huhpiq.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Map of NSW South Coast Trip***

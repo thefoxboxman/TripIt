@@ -21,9 +21,10 @@ author: John
 
 <Image />
 
+### South West Rocks - Clarence Town - Dunedoo - Mudgee - Gouldburn
 
-# Day 4 - 25th Oct
-## South West Rocks - Cresent Head - Clarence Town
+## Day 4 - 25th Oct
+### South West Rocks - Cresent Head - Clarence Town
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733615878/Victoria%202024/Sydney_Bypass/Map_Sydney_Bypass_qhtxka.png?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Map of route bypassing Sydney***
