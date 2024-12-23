@@ -114,19 +114,7 @@ Today we are off for a  6km return hike to the Pinnicales at Cape Woolami.
 It is raining and misserable today. Had a bit of a drive around the mainland adjacent and went to a few bird watching areas without much luck. Good weather for Phillip Island Bakery pies for lunch though.
 
 
- ### Day 24 - 14th Nov
-
-#### Phillip Island to Rye on the Mornington Peninsular
-Before we left Phillip Island we made one last stop at the Bakery. 
-
-![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1734928886/Victoria%202024/Phillip%20Island/Phillip_Island_Bakery_Yummies_IMG_6246_mgdwca.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Phillip_Island_Bakery_Yummies...and taste as good as they look***
-
-Not far to travel today either. Phillip Is is on eastern side of Western Port while the Mornington Peninsular is on the western side. All we have to do is drive up and around.
-
- ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1734928880/Victoria%202024/Phillip%20Island/Phillip_Island_Western_Port_IMG_6159_ugx9fm.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Western_Port***
-
+ 
  <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Replace*** -->
 
