@@ -9,7 +9,7 @@ category:
 tags:
   - Victoria_2024
   
-pubDate: 2024-11-12
+pubDate: 2024-11-14
 cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1734928882/Victoria%202024/Phillip%20Island/The_Pinnancles_Cape_Woolamai_Phillip_Island_2_P1064861_opk9lj.jpg
 coverAlt: The_Pinnancles_Cape_Woolamai_Phillip_Island
 author: John
@@ -120,7 +120,7 @@ It is raining and misserable today. Had a bit of a drive around the mainland adj
 Before we left Phillip Island we made one last stop at the Bakery. 
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1734928886/Victoria%202024/Phillip%20Island/Phillip_Island_Bakery_Yummies_IMG_6246_mgdwca.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Phillip_Island_Bakery_Yummies***
+ ***<p style="text-align:center;">Phillip_Island_Bakery_Yummies...and taste as good as they look***
 
 Not far to travel today either. Phillip Is is on eastern side of Western Port while the Mornington Peninsular is on the western side. All we have to do is drive up and around.
 
