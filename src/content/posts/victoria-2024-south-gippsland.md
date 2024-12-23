@@ -19,7 +19,11 @@ author: John
 ---
 <Image />
 
-### Sale - Yarram - Inverloch
+## Sale - Yarram - Inverloch
+
+![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1734927830/Victoria%202024/South_Gippsland/Map_South_Gippsland_zyogyn.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
+ ***<p style="text-align:center;">Map of South Gippsland section of trip***
+
 ## Day 17 - 7th Nov
 
 ### Lakes Entrance - Sale - Yarram
@@ -100,7 +104,7 @@ Then back to Yarram...
 
 ###  Yarram to Inverloch
 
-Leaving Yarram today our first stop was in the little village of Fish Creek. The small rural village is undergoing a renewal lead by artist's studios and to die for coffee shops. After a few delectable pastries from the "Little Oberon" cafe we set off to Inverloch.
+Leaving Yarram today, we took the senic route, with our first stop being in the little village of Fish Creek. The small rural village is undergoing a renewal lead by artist's studios and to die for coffee shops. After a few delectable pastries from the "Little Oberon" cafe we set off to Inverloch.
 
 
 ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1734890004/Victoria%202024/South_Gippsland/Fish_Creek_Street_Art_P1411894_m8fef5.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
