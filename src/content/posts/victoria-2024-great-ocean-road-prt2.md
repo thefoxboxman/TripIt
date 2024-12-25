@@ -17,14 +17,15 @@ author: John
 
 ---
 
-
 <Image />
+
+
+
 ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
 
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+![img](../../Images/Great_Ocean_Road_Part_2/Cape_Bridgewater_NP_P1412509.jpg)
+ ***<p style="text-align:center;">Cape_Bridgewater***
 
  <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
  ***<p style="text-align:center;">Replace*** -->
