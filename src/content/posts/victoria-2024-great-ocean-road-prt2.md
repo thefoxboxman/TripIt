@@ -1,189 +1,113 @@
 ---
 
-title: great-ocean-road-prt2
+title: Great Ocean Road Part 2
 subtitle: Victoria 2024
 slug: Great_Ocean_Road_2
-description: Going around the outside of Sydney through Dunedoo and Mudgee. 
+description: The western section of the Great Ocean Road. 
 category:
   - Travel
 tags:
   - Victoria_2024
   
 pubDate: 2024-11-21
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733615878/Victoria%202024/Sydney_Bypass/Map_Sydney_Bypass_qhtxka.png
-coverAlt: Map of route bypassing Sydney
+cover: https://images.unsplash.com/photo-1735432381047-5184af8a379a?q=80&w=2581&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+coverAlt: Port Fairy Lighthouse
 author: John
 
 
 ---
 
-<Image />
+<h2 style="text-align:center; "> Port Campbell - Warrnambool - Port Fairy - Portland </h2>
 
+![img](../../Images/Great_Ocean_Road_Part_2/Map_of_GOR_Prt_2.jpg)
+***<p style="text-align:center; ">Map_of_GOR_Prt_2 </p>***
 
+<h2 style="text-align:center; "> Day 31 - 21st Nov</h2>
 
-ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+<h3 style="text-align:center; "> Port Campbell to Warrnambool. </h3>
 
 
-![img](../../Images/Great_Ocean_Road_Part_2/Cape_Bridgewater_NP_P1412509.jpg)
- ***<p style="text-align:center;">Cape_Bridgewater***
+<!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+<!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
 
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-
-
-
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
