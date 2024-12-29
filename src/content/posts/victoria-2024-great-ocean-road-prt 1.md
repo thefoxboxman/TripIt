@@ -92,6 +92,9 @@ The Great Ocean Road hugs the coastline and cliff tops from Anglesea to Apollo B
 ![img](../../Images/Great_Ocean_Road_Part_1/Apollo_Bay_Countryside_IMG_6361.jpg)
  ***<p style="text-align:center; ">Apollo_Bay_Countryside </p>***
 
+ ![img](../../Images/Great_Ocean_Road_Part_1/Fur_Seals_Apollo_Bay_DSC8258-Edit.jpg)
+ ***<p style="text-align:center; ">Fur Seals on the rocks at Apollo Bay </p>***
+
 
 <h2 style="text-align:center; "> Day 28 - 18th Nov</h2>
 
@@ -187,8 +190,7 @@ Port Campbell is the epi-centre of the Great Ocean Road iconic scenery. Today we
  ***<p style="text-align:center; ">Childers_Cove from the sky </p>***
 
 
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
+ 
 
  <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
  ***<p style="text-align:center; ">Replace </p>*** -->
