@@ -11,6 +11,8 @@
 
 ### ////////////////////////////////////
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/63dd0b72-485b-4a12-a8c1-ae7ad83cecec/deploy-status)](https://app.netlify.com/sites/tripitjnj/deploys)
+
 
 ## Original ReadMe
 
