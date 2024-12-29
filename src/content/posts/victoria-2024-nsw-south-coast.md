@@ -3,26 +3,29 @@
 title: NSW South Coast
 subtitle: Victoria 2024
 slug: NSW_South_Coast
-description: South coast chilling 
+description: South coast chill'n 
 category:
   - Travel
 tags:
   - Victoria_2024
   
 pubDate: 2024-10-31
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720578/Victoria%202024/NSW%20South%20Coast/Guerilla_Bay_Seals_2_DSC7110-Edit_yx21wq.jpg
+cover: https://images.unsplash.com/photo-1735505400837-36a35d91f9db?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D
 coverAlt: Guerilla_Bay_Seals
 author: John
 
 
 ---
 
+<h2 style="text-align:center; "> Goulburn - Batemans Bay - Mallacoota </h2>
 
-<Image />
+![img](../../Images/NSW_South_Coast/Map_NSW_Sth_Coast.jpg)
+***<p style="text-align:center; ">Map_of_GOR_Prt_2 </p>***
 
-## Goulburn - Batemans Bay - Victorian Border
+<h2 style="text-align:center; "> Day 9 - 30th Oct </h2>
 
-## Day 9 - 30th Oct 
+<h3 style="text-align:center; "> Goulburn to Batemans Bay. </h3>
+
 
 
 
@@ -30,174 +33,37 @@ Drove down from Goulburn to Batemans Bay. What a great spot for a break.
 
 
 
+![img](../../Images/NSW_South_Coast/Batemans_Bay_Jetty_IMG_5965.jpg)
+ ***<p style="text-align:center; "> Batemans_Bay_Jetty </p>***
 
 
-![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733721805/Victoria%202024/NSW%20South%20Coast/Map_NSW_Sth_Coast_huhpiq.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Map of NSW South Coast Trip***
-
-![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720581/Victoria%202024/NSW%20South%20Coast/Batemans_Bay_Jetty_IMG_5965_wmrpa1.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Batemans_Bay_Jetty***
-
-![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720571/Victoria%202024/NSW%20South%20Coast/Bateman_Bay_Street_Art_IMG_5968_fmbo6z.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Bateman_Bay_Street_Art***
+![img](../../Images/NSW_South_Coast/Bateman_Bay_Street_Art_IMG_5968.jpg)
+ ***<p style="text-align:center; "> Seahorse Sculpture</p>***
 
 
- ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720575/Victoria%202024/NSW%20South%20Coast/Bateman_Bay_Street_Sculpture_1_IMG_5963_mre1j6.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Batemans_Bay_Jetty***
-
- ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720571/Victoria%202024/NSW%20South%20Coast/Bateman_Bay_Street_Art_IMG_5968_fmbo6z.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Bateman_Bay_Street_Art***
-
-
-![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720571/Victoria%202024/NSW%20South%20Coast/Bateman_Bay_Street_Sculpture_2_IMG_5976_oulk8e.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center">Bateman_Bay_Street_Sculpture_2***
-
- ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720575/Victoria%202024/NSW%20South%20Coast/Guerilla_Bay_1_DJI_0648_xccoft.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Guerilla_Bay_1***
-
- ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720576/Victoria%202024/NSW%20South%20Coast/Guerilla_Bay_2_DJI_0656-Edit-Edit_e4xok6.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Guerilla_Bay_2***
-
-
-![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720578/Victoria%202024/NSW%20South%20Coast/Guerilla_Bay_Seals_2_DSC7110-Edit_yx21wq.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Guerilla_Bay_Seals_2***
-
- ![img](https://res.cloudinary.com/drmvd4hkt/image/upload/v1733720571/Victoria%202024/NSW%20South%20Coast/Guerilla_Bay_Seals_3_DSC7113-Edit_kprpxr.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Guerilla_Bay_Seals_3***
-
+![img](../../Images/NSW_South_Coast/Bateman_Bay_Street_Sculpture_1_IMG_5963.jpg)
+ ***<p style="text-align:center; "> Bateman_Bay_Street_Sculpture </p>***
  
+ *
+
+![img](../../Images/NSW_South_Coast/Bateman_Bay_Street_Sculpture_2_IMG_5976.jpg)
+ ***<p style="text-align:center; "> Octopus Sculpture </p>***
+
+![img](../../Images/NSW_South_Coast/Guerilla_Bay_1_DJI_0648.jpg)
+ ***<p style="text-align:center; "> Guerilla_Bay </p>***
+ 
+![img](../../Images/NSW_South_Coast/Guerilla_Bay_2_DJI_0656-Edit-Edit.jpg)
+ ***<p style="text-align:center; "> Rocky Outcrop Guerilla Bay </p>***
+ 
+![img](../../Images/NSW_South_Coast/Guerilla_Bay_Seals_2_DSC7110-Edit.jpg)
+ ***<p style="text-align:center; "> Seals be chill'n </p>***
+
+![img](../../Images/NSW_South_Coast/Guerilla_Bay_Seals_3_DSC7113-Edit.jpg)
+ ***<p style="text-align:center; "> This is the life </p>***
 
 
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
+![img](../../Images/NSW_South_Coast/Red_Wattlebird_Batemans_Bay_DSC7117-Edit.jpg)
+ ***<p style="text-align:center; "> Red Wattlebird </p>***
 
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-<!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
- <!-- ![img](https://input?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&h=1102&auto=format&fit=crop&w=1000&q=80)
- ***<p style="text-align:center;">Replace*** -->
-
-
-
-
-
+<!-- ![img](../../Images/NSW_South_Coast/.jpg)
+ ***<p style="text-align:center; "> Replace </p>*** -->
