@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-12-04
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1733615878/Victoria%202024/Sydney_Bypass/Map_Sydney_Bypass_qhtxka.png
+cover: https://images.unsplash.com/photo-1735434177126-ea03fe13a846?q=80&w=2640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 coverAlt: Map of route bypassing Sydney
 author: John
 

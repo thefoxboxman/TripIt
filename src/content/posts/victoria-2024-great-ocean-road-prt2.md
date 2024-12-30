@@ -28,11 +28,11 @@ author: John
 <h3 style="text-align:center; "> Port Campbell to Warrnambool. </h3>
 
 
-<!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
+![img](../../Images/Great_Ocean_Road_Part_2/Warrnambool_Cheese_Factory_IMG_6453.jpg)
+ ***<p style="text-align:center; "> Warrnambool_Cheese_Factory </p>***
 
- <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
+ <!-- ![img](../../Images/Great_Ocean_Road_Part_2/Warrnambool_Cheese_Factory_IMG_6454.jpg)
+ ***<p style="text-align:center; "> Warrnambool_Cheese_Factory </p>*** -->
 
  <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
  ***<p style="text-align:center; "> Replace </p>*** -->
