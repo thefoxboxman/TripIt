@@ -100,6 +100,17 @@ The Great Ocean Road hugs the coastline and cliff tops from Anglesea to Apollo B
 
 <h3 style="text-align:center; "> Apollo Bay - Port Campbell </h3>
 
+The Great Ocean Road between Apollo Bay and Port Campbell was closed due to bushfires.
+This meant wehad to make a detour up over the Ottway Ranges via Colac.
+
+![img](../../Images/Great_Ocean_Road_Part_1/Otway_Ranges_Rainforest_IIMG_6369.jpg)
+ ***<p style="text-align:center; ">Otway_Ranges_Rainforest </p>***
+
+ ![img](../../Images/Great_Ocean_Road_Part_1/Otway_Ranges_Rainforest_IMG_6365.jpg)
+ ***<p style="text-align:center; ">Otway_Ranges_Rainforest </p>***
+
+ ![img](../../Images/Great_Ocean_Road_Part_1/Colac_Farm_Shop_Fudge_IMG_6428.jpg)
+ ***<p style="text-align:center; ">Colac_Farm_Shop_Fudge </p>***
 
 ![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_1_DSC8262.jpg)
  ***<p style="text-align:center; ">Port_Campbell_1 </p>***
