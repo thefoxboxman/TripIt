@@ -153,22 +153,5 @@ author: John
  <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
  ***<p style="text-align:center; "> Replace </p>*** -->
 
- <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_2/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
 
 
