@@ -11,7 +11,7 @@ tags:
   - NSW_North_Coast
   
 pubDate: 2024-10-24
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680765/Victoria_2024_Hero_Images/A_Hero_Ballina_Surfers_Lennox_Head_DSC6797_bcralq.jpg
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680765/Victoria_2024_Hero_Images/A_Hero_Ballina_Surfers_Lennox_Head_DSC6797_bcralq.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 coverAlt: Surfers at Lennox Head break
 author: John
 

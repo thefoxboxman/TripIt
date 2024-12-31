@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-06
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680769/Victoria_2024_Hero_Images/A_Hero_Cape_Conran_DSC7427-Edit-Edit_fszp2j.jpg
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680769/Victoria_2024_Hero_Images/A_Hero_Cape_Conran_DSC7427-Edit-Edit_fszp2j.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 coverAlt: View of Cape Conran
 author: John
 

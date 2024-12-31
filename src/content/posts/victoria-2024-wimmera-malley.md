@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-30
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680766/Victoria_2024_Hero_Images/A_Hero_Natimuk_Wheat_Fields_IMG_6508_dhzreh.jpg
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680766/Victoria_2024_Hero_Images/A_Hero_Natimuk_Wheat_Fields_IMG_6508_dhzreh.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 coverAlt: Wheat fields near Natimuk
 author: John
 

@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-10-31
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680766/Victoria_2024_Hero_Images/A_Hero_Guerilla_Bay_Seals_1_DSC7090-Edit_mqv9i3.jpg
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680766/Victoria_2024_Hero_Images/A_Hero_Guerilla_Bay_Seals_1_DSC7090-Edit_mqv9i3.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 coverAlt: Guerilla_Bay_Seals
 author: John
 
