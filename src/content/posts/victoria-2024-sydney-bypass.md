@@ -11,7 +11,7 @@ tags:
   - Sydney_Bypass
   
 pubDate: 2024-10-30
-cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A-Hero_Oberon_Countryside_P1401488-Pano-Edit-Edit.jpg?raw=true
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680775/Victoria_2024_Hero_Images/A-Hero_Oberon_Countryside_P1401488-Pano-Edit-Edit_bvinxd.jpg
 coverAlt: Oberon Countryside
 author: John
 

@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-16
-cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Echidna_Mornington_Peninsula_DSC8043.jpg?raw=true
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680765/Victoria_2024_Hero_Images/A_Hero_Echidna_Mornington_Peninsula_DSC8043_ftje5m.jpg
 coverAlt: Echidna
 author: John
 

@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-12-04
-cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Echuca_Paddlesteamer_Canberra_P1422734.jpg?raw=true
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680765/Victoria_2024_Hero_Images/A_Hero_Echuca_Paddlesteamer_Canberra_P1422734_ib9wuq.jpg
 coverAlt: Map of route bypassing Sydney
 author: John
 

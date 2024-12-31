@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-25
-cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Port_Fairy_Lighthouse_P1412457.jpg?raw=true
+cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680767/Victoria_2024_Hero_Images/A_Hero_Port_Fairy_Lighthouse_P1412457_taslxu.jpg
 
 coverAlt: Port Fairy Lighthouse
 author: John
