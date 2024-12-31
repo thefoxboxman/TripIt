@@ -37,14 +37,13 @@ export const HeaderLinks = [
 
 // Footer Links, src/components/Footer.astro
 export const FooterLinks = [
-  { href: "/posts/why-astro/", title: "Astro" },
-  { href: "/posts/tailwind-typography/", title: "Tailwind" },
+  
   { href: "/tags/", title: "Tags" },
 ];
 
 // Social Links, src/components/Footer.astro
 export const SocialLinks = [
-  { href: "/rss.xml", icon: "tabler:rss", label: "RSS" },
+
   {
     href: "https://bsky.app/profile/johndecosta.bsky.social",
     icon: "tabler:brand-bluesky",
