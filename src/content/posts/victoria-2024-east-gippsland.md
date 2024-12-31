@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-06
-cover: https://images.unsplash.com/photo-1735508087760-04a08b6a626f?q=80&w=2674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Cape_Conran_DSC7427-Edit-Edit.jpg?raw=true
 coverAlt: View of Cape Conran
 author: John
 
@@ -171,9 +171,6 @@ We stocked up on the local farm produce before we left.
 
 
 
-<!-- ![img](../../Images/East_Gippsland/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
+![img](https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Cape_Conran_DSC7427-Edit-Edit.jpg?raw=true)
+ ***<p style="text-align:center; "> Replace </p>***
 
-
-<!-- ![img](../../Images/East_Gippsland/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
