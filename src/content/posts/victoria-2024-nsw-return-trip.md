@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-12-04
-cover: https://images.unsplash.com/photo-1735434177126-ea03fe13a846?q=80&w=2640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Crescent_Head_1_P1075715.jpg?raw=true
 coverAlt: Map of route going home via NSW North Coast 
 author: John
 
@@ -82,7 +82,7 @@ Rest day at Harrington.
 ![img](../../Images/Return_Trip/Coopernook_NSW_Kingfisher_Cattia_Wetlands_DSC9250-Edit-Edit.jpg)
 ***<p style="text-align:center; "> Coopernook_NSW_Kingfisher_Cattia_Wetlands </p>***
 
-![img](../../Images/Return_Trip/Crescent_Head_1_P1075715.jpg)
+![img](../../Images/Return_Trip/A_Hero_Crescent_Head_1_P1075715.jpg)
 ***<p style="text-align:center; "> Crescent_Head </p>***
 
 ![img](../../Images/Return_Trip/Crescent_Head_2_P1075726.jpg)

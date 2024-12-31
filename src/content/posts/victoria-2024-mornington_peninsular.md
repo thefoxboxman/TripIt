@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-16
-cover: https://images.unsplash.com/photo-1735548371077-527b68baaefa?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D
+cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Echidna_Mornington_Peninsula_DSC8043.jpg?raw=true
 coverAlt: Echidna
 author: John
 
