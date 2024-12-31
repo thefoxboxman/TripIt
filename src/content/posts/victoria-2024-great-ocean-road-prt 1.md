@@ -8,7 +8,7 @@ category:
 tags:
   - Victoria_2024
 
-pubDate: 2024-11-20
+pubDate: 2024-11-21
 cover: https://github.com/thefoxboxman/Hero_Images/blob/main/AAHero_Twelve_Apostles_Great_Ocean_Road_1_P1064999.jpg?raw=true
 
 coverAlt: The Twelve Apostles on the Great Ocean Road
@@ -202,42 +202,6 @@ Port Campbell is the epi-centre of the Great Ocean Road iconic scenery. Today we
 
 
  
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
-
- <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
- ***<p style="text-align:center; ">Replace </p>*** -->
 
  <!-- ![img](../../Images/Great_Ocean_Road_Part_1/.jpg)
  ***<p style="text-align:center; ">Replace </p>*** -->

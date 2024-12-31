@@ -9,7 +9,7 @@ category:
 tags:
   - Victoria_2024
   
-pubDate: 2024-11-29
+pubDate: 2024-12-04
 cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Echuca_Paddlesteamer_Canberra_P1422734.jpg?raw=true
 coverAlt: Map of route bypassing Sydney
 author: John
@@ -200,41 +200,5 @@ author: John
 <br/>
 <br/>
 <br/>
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Murray_River/.jpg)
-***<p style="text-align:center; "> Replace </p>*** -->
-
 <!-- ![img](../../Images/Murray_River/.jpg)
 ***<p style="text-align:center; "> Replace </p>*** -->

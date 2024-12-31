@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   - Sydney_Bypass
   
-pubDate: 2024-10-25
+pubDate: 2024-10-30
 cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A-Hero_Oberon_Countryside_P1401488-Pano-Edit-Edit.jpg?raw=true
 coverAlt: Oberon Countryside
 author: John
@@ -229,50 +229,6 @@ Late in the afternoon we checked into the lack luster South Goulburn Caravan Par
 
 ![img](../../Images/Sydney_Bypass/Braidwood_Wildflowers_IMG_5948.jpg)
  ***<p style="text-align:center; "> Braidwood Wildflowers </p>***
-
-<!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
- <!-- ![img](../../Images/Sydney_Bypass/.jpg)
- ***<p style="text-align:center; "> Replace </p>*** -->
-
-<!-- ![img](../../Images/Sydney_Bypass/.jpg)
 
 <!-- ![img](../../Images/Sydney_Bypass/.jpg)
  ***<p style="text-align:center; "> Replace </p>*** -->

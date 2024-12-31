@@ -170,7 +170,3 @@ We stocked up on the local farm produce before we left.
 
 
 
-
-![img](https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Cape_Conran_DSC7427-Edit-Edit.jpg?raw=true)
- ***<p style="text-align:center; "> Replace </p>***
-
