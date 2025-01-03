@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-10
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680767/Victoria_2024_Hero_Images/A_Hero_Eagles_Nest_Rock_Inverloch_2_P1064786-Edit-Edit_evujr6.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
+cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Eagles_Nest_Rock_Inverloch_2_P1064786-Edit-Edit.jpg?raw=true?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 
 coverAlt: South Gippsland
 author: John

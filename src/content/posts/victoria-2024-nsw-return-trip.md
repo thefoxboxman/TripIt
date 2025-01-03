@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-12-11
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680765/Victoria_2024_Hero_Images/A_Hero_Crescent_Head_1_P1075715_ejpapr.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
+cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Crescent_Head_1_P1075715.jpg?raw=true?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 coverAlt: Map of route going home via NSW North Coast 
 author: John
 

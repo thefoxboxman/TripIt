@@ -10,7 +10,7 @@ tags:
   - Victoria_2024
   
 pubDate: 2024-11-14
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680767/Victoria_2024_Hero_Images/A_Hero_The_Pinnancles_Cape_Woolamai_Phillip_Island_2_P1064861_qmg2ow.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
+cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_The_Pinnancles_Cape_Woolamai_Phillip_Island_2_P1064861.jpg?raw=true?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 coverAlt: The Pinnacles, Cape Woolamai, Phillip Island
 author: John
 

@@ -9,7 +9,7 @@ tags:
   - Victoria_2024
 
 pubDate: 2024-11-21
-cover: https://res.cloudinary.com/drmvd4hkt/image/upload/v1735680774/Victoria_2024_Hero_Images/AAHero_Twelve_Apostles_Great_Ocean_Road_1_P1064999_ectpqn.jpg?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
+cover: https://github.com/thefoxboxman/Hero_Images/blob/main/AAHero_Twelve_Apostles_Great_Ocean_Road_1_P1064999.jpg?raw=true?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
 
 coverAlt: The Twelve Apostles on the Great Ocean Road
 author: John
