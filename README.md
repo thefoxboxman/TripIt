@@ -7,6 +7,9 @@
 
 ## Markdown Sytax: https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
 
+## Hero Images used in markdown frontmatter are hosted in GitHub Repo https://github.com/thefoxboxman/Hero_Images
+
+
 ## Deploys auto from GitHub repo to Netily: https://tripitjnj.netlify.app
 
 ### ////////////////////////////////////
