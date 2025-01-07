@@ -29,10 +29,10 @@ author: John
 
 
 
-We have decided to bypass Sydney by going out west trough Dunedoo, Mudgee and down to Goulburn.
+We have decided to bypass Sydney by going out west through Dunedoo, Mudgee and down to Goulburn.
 
-So big driving day to day. Popped into Crescent Head but there was no where to park the van anywhere near the headland. Made a note to check into the beach front caravan park on our return trip.
-Head south along the M1 and turned off onto Buckets Way towards Stroud. Then onto Limeburners Creek Rd to Clarence Town. We checked into the Williams River Holiday Park. Clarence Town is a pre-federation village on the banks of the Williams River. 
+So big driving day today. Popped into Crescent Head but there was no where to park the van anywhere near the headland. Made a note to check into the beach front caravan park on our return trip.
+Headed south along the M1 and turned off onto Buckets Way towards Stroud. Then onto Limeburners Creek Rd to Clarence Town. We checked into the Williams River Holiday Park. Clarence Town is a pre-federation village on the banks of the Williams River. 
 
 ![img](../../Images/Sydney_Bypass/Clarence_Town_Bridge_DSC6916.jpg)
  ***<p style="text-align:center; "> Clarence_Town_Bridge </p>***
@@ -51,17 +51,12 @@ Head south along the M1 and turned off onto Buckets Way towards Stroud. Then ont
 ![img](../../Images/Sydney_Bypass/Denman_House_DSC6924.jpg)
  ***<p style="text-align:center; ">Denman_House </p>***
 
- 
-
 ![img](../../Images/Sydney_Bypass/Denman_Rose_DSC6918-Edit.jpg)
  ***<p style="text-align:center; "> Denman_Rose </p>***
 
 
-
-
 ![img](../../Images/Sydney_Bypass/Denman_Royal_Hotel_DSC6920.jpg)
  ***<p style="text-align:center; "> Denman_Royal_Hotel </p>***
-
 
 
 ![img](../../Images/Sydney_Bypass/Denman_Street_Art_DSC6921.jpg)
@@ -74,7 +69,7 @@ After Denman we popped into Merriwa to check out the  silo art.
  ***<p style="text-align:center; "> Merriwa_Silo_Art </p>***
 
 
- Finally arrived in Dunedoo and parked up at the council caravan park. After Clarence Town and Denman we had expected Dunedoo to be switched on little place but it was a bit drab. It seems to be suffering the same fate of many small country towns. Unfortunately we had book 2 nights so we made our second day our first day off.
+ Finally arrived in Dunedoo and parked up at the council caravan park. After Clarence Town and Denman we had expected Dunedoo to be a switched on little place but it was a bit drab. It seems to be suffering the same fate of many small country towns. Unfortunately we had booked 2 nights so we made our second day in Dunedoo, our first day off of the trip.
 
 
 <h2 style="text-align:center; "> Day 6 - 27th Oct</h2>
@@ -109,7 +104,7 @@ After Denman we popped into Merriwa to check out the  silo art.
 
 <h3 style="text-align:center; "> Dunedoo - Gulgong - Mudgee </h3>
 
-Gulgong is a historic goldmining town. Home town (sort of) of Henry Lawson
+Gulgong is a historic goldmining town. Home town (sort of) of Henry Lawson.
 
 ![img](../../Images/Sydney_Bypass/Gulgong_Church_P1064679.jpg)
  ***<p style="text-align:center; "> Gulgong_Church </p>***
@@ -131,7 +126,7 @@ Gulgong is a historic goldmining town. Home town (sort of) of Henry Lawson
  ***<p style="text-align:center; "> Gulgong_Opera_House </p>***
 
 
-Arrived into Mudgee the upmarket wine town. Stayed at the Mudgee Riverside Caravan Park. Had a great walk around. Went for a drive to a farm cheese shop to stock up on some local produce.
+Arrived into Mudgee, the upmarket wine town. Stayed at the Mudgee Riverside Caravan Park. Had a great walk around. Went for a drive to a farm cheese shop to stock up on some local produce.
 
 ![img](../../Images/Sydney_Bypass/Mudgee_Main_Street_P1064682.jpg)
  ***<p style="text-align:center; "> Mudgee_Main_Street </p>***
@@ -195,7 +190,7 @@ Another long driving day today. Passed though some picturesque countryside aroun
  ***<p style="text-align:center; "> Sofala Collector </p>***
 
 
-Some pretty stunning countryside around O'Connell in the southside of Bathurst which we basically bypassed. We spent 3 or 4 days in Bathurst a few years ago, so need to stop.
+Some pretty stunning countryside around O'Connell in the southside of Bathurst. We spent 3 or 4 days in Bathurst a few years ago, so need to stop.
 
 ![img](../../Images/Sydney_Bypass/O'connell_countryside_IMG_5920.jpg)
  ***<p style="text-align:center; "> O'Connell Countryside </p>***
@@ -222,7 +217,7 @@ Our surprise for the day was the town of Oberon. Jenelle was in second heaven wi
 ![img](../../Images/Sydney_Bypass/Oberon_Flowers_5_P1401475.jpg)
  ***<p style="text-align:center; "> Oberon_Flowers </p>***
 
-Late in the afternoon we checked into the lack luster South Goulburn Caravan Park. The best Goulburn has to offer according to wikiCamps. One of it's saving grace is that is close to the M31 onramp, it close to he Big Ram and it is close to Trappers Bakery. Trappers is never to be bypassed.
+Late in the afternoon we checked into the lack luster South Goulburn Caravan Park. The best Goulburn has to offer according to wikiCamps. One of it's saving graces is that it is close to the M31 onramp. Also close to the Big Ram and iTrappers Bakery. Trappers is never to be bypassed.
 
 ![img](../../Images/Sydney_Bypass/Goulburn_Big_Ram_IMG_5942.jpg)
  ***<p style="text-align:center; "> Goulburn_Big Ram </p>***
