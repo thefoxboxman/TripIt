@@ -33,10 +33,10 @@ Before we left Phillip Island we made one last stop at the Bakery.
 ![img](../../Images/Phillip_Island/Phillip_Island_Bakery_Yummies_IMG_6246.jpg)
 ***<p style="text-align:center; "> Phillip_Island_Bakery_Yummies...and taste as good as they look</p>*** 
 
-Not far to travel today either. Phillip Is is on eastern side of Western Port while the Mornington Peninsular is on the western side. All we have to do is drive up and around.
+Not far to travel today either. Phillip Is is on eastern side of Western Port Bay while the Mornington Peninsular is on the western side. All we have to do is drive up and around.
 
 ![img](../../Images/Phillip_Island/Phillip_Island_Western_Port_IMG_6159.jpg)
-***<p style="text-align:center; "> Western_Port </p>*** 
+***<p style="text-align:center; "> Western_Port Bay</p>*** 
 
 Starting to get real close to Melbourne now. 
 <br />
@@ -58,7 +58,7 @@ We drove the end of the Mornington Peninsular ( well as far as you an drive) and
  ***<p style="text-align:center;"> Old_Quarantine_Station </p>*** 
 
 
-When we came back in the afternoon, the tide was low and we discovered that to get on the "right-side" we would have to walk out across and around a large rock shelf covered in seaweed. With the potential of a rogue wave coming and sweeping the photographer or assistant to their death by drowning. Seem like fun.
+When we came back in the afternoon, the tide was low and we discovered that to get on the "right-side" we would have to walk out across and around a large rock shelf covered in seaweed. With the potential of a rogue wave coming and sweeping the photographer or assistant to their death by drowning. Seems like fun.
 <br />
 We had been planning to leave the next morning but decided to stay another day to get the Dragon's Head shot.
 
