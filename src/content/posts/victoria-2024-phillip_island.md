@@ -29,9 +29,9 @@ author: John
 <h3 style="text-align:center; "> Inverloch - Wonthagi - Phillip Island. </h3>
 
 
-Short travel day today. Just 54km. On the way we stop at Wonthagi to do some food shopping. We also acquired an Australia Post Prepaid Mastercard to replace John's NAB Visa which had been hacked and therefore blocked again.
+Short travel day today. Just 54km. On the way we stopped at Wonthagi to do some food shopping. We also acquired an Australia Post Prepaid Mastercard to replace John's NAB Visa which had been hacked and therefore blocked again.
 <br />
-We arrived a the caravan park which was just over the bridge to Phillip Island  at 10.30; too early to check in. We went to explore Phillip Is which is surprising big.
+We arrived at the caravan park which was just over the bridge to Phillip Island  at 10.30; too early to check in. We went to explore Phillip Is which is surprising big.
 
 
 ![img](../../Images/Phillip_Island/Phillip_Island_Bridge_IMG_6167.jpg)
@@ -53,7 +53,7 @@ We arrived a the caravan park which was just over the bridge to Phillip Island  
  ***<p style="text-align:center; "> The Nobbies </p>***
 
 
-The Nobbies is a headland at the end of the Summerland Peninsular. This area includes the Penguin Parade, a crested Tern hatchery, seagull hatchery and Little Penguin hatchery. This is addition to the scenic headlands, rock formations and blowholes. Any wonder Jenelle finished the day with over 320 photos to sort.
+The Nobbies is a headland at the end of the Summerland Peninsular. This area includes the Penguin Parade, a crested Tern hatchery, seagull hatchery and Little Penguin hatchery. This is in addition to the scenic headlands, rock formations and blowholes. Any wonder Jenelle finished the day with over 320 photos to sort.
 
 ![img](../../Images/Phillip_Island/The_Nobbies_Phillip_Island_2_P1064824.jpg)
  ***<p style="text-align:center; "> The_Nobbies</p>***
@@ -100,7 +100,7 @@ Today we are off for a  6km return hike to the Pinnicales at Cape Woolami.
 ![img](../../Images/Phillip_Island/Woolamai_Surf_Beach_P1064913.jpg)
  ***<p style="text-align:center; "> Woolamai_Surf_Beach </p>***
 
- One the way back to the van park we discover the Philip Island Bakery. Seem popular. John had a scollop pie and Jenelle had a chicken and corn pie. Too good. Eaten to fast for photos. Also bought a pecan tart and vanilla slice for desert.
+ One the way back to the van park we discovered the Philip Island Bakery. Seems popular. John had a scollop pie and Jenelle had a chicken and corn pie. Too good. Eaten too fast for photos. Also bought a pecan tart and vanilla slice for desert.
 
 ![img](../../Images/Phillip_Island/Phillip_Island_Bakery_IMG_6230.jpg)
  ***<p style="text-align:center; "> Phillip_Island_Bakery </p>***
