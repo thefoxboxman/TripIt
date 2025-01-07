@@ -11,7 +11,7 @@ tags:
   
 pubDate: 2024-12-04
 cover: https://github.com/thefoxboxman/Hero_Images/blob/main/A_Hero_Echuca_Paddlesteamer_Canberra_P1422734.jpg?raw=true?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3
-coverAlt: Map of route bypassing Sydney
+coverAlt: Echuca_Paddlesteamer_Canberra
 author: John
 
 
@@ -62,13 +62,13 @@ author: John
 ***<p style="text-align:center; "> Murray_River_Robinvale </p>***
 
 ![img](../../Images/Murray_River/Robinvale_Murray_River_Robinvale_2_P1075637.jpg)
-***<p style="text-align:center; "> Murray_River_Robinvale </p>***
+***<p style="text-align:center; "> River_Bend </p>***
 
 ![img](../../Images/Murray_River/Robinvale_Murray_River_Robinvale_P1075587.jpg)
 ***<p style="text-align:center; "> Murray_River_Robinvale </p>***
 
 ![img](../../Images/Murray_River/Robinvale_Pistachio_Orchard_Robinvale_P1075618.jpg)
-***<p style="text-align:center; "> Murray_River_Robinvale </p>***
+***<p style="text-align:center; "> Pistachio_Orchard_Robinvale </p>***
 
 ![img](../../Images/Murray_River/Robinvale_Produce_Robinvale_P1075586.jpg)
 ***<p style="text-align:center; "> Produce_Robinvale </p>***
@@ -186,10 +186,10 @@ author: John
 ***<p style="text-align:center; "> Wine-bottle_Water_Tower Rutherglen </p>***
 
 ![img](../../Images/Murray_River/Rutherglen_Parker_Pies_IMG_6742.jpg)
-***<p style="text-align:center; "> ReplaceRutherglen_Parker_Pies </p>***
+***<p style="text-align:center; "> Rutherglen_Parker_Pies </p>***
 
 ![img](../../Images/Murray_River/Rutherglen_Parker_Pies_IMG_6745.jpg)
-***<p style="text-align:center; "> ReplaceRutherglen_Parker_Pies </p>***
+***<p style="text-align:center; "> Rutherglen_Parker_Pies </p>***
 
 ![img](../../Images/Murray_River/Wodonga_Hume_Dam_P1075678.jpg)
 ***<p style="text-align:center; "> Wodonga_Hume_Dam </p>***
