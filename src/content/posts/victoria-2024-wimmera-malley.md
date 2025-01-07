@@ -167,7 +167,7 @@ author: John
 ***<p style="text-align:center; "> Lake_Tyrrell </p>***
 
 ![img](../../Images/Wimmera_Malley/Lake_Tyrrell_DJI_0722.jpg)
-***<p style="text-align:center; "> RLake_Tyrrell</p>***
+***<p style="text-align:center; "> Lake_Tyrrell</p>***
 
 ![img](../../Images/Wimmera_Malley/Lake_Tyrrell_DJI_0732.jpg)
 ***<p style="text-align:center; "> Lake_Tyrrell </p>***
@@ -179,7 +179,7 @@ author: John
 ***<p style="text-align:center; "> Lake_Tyrrell </p>***
 
 ![img](../../Images/Wimmera_Malley/Lake_Tyrrell_Red-Capped_Plover_P1422646.jpg)
-***<p style="text-align:center; "> RLake_Tyrrell Red-Capped_Plover</p>***
+***<p style="text-align:center; "> Lake_Tyrrell Red-Capped_Plover</p>***
 
 ![img](../../Images/Wimmera_Malley/Lake_Tyrrell_Reverse_Salt_Pile_P1075562.jpg)
 ***<p style="text-align:center; "> Lake_Tyrrell Salt Pile</p>***
@@ -193,7 +193,7 @@ author: John
 
 
 ![img](../../Images/Wimmera_Malley/Lake_Tyrrell_Reverse_Sunrise_1_P1075533.jpg)
-***<p style="text-align:center; "> _Reverse_Sunrise_Lake_Tyrrell </p>***
+***<p style="text-align:center; "> Reverse_Sunrise_Lake_Tyrrell </p>***
 
 ![img](../../Images/Wimmera_Malley/Lake_Tyrrell_Reverse_Sunrise_2_P1075537.jpg)
 ***<p style="text-align:center; ">Reverse_Sunrise_Lake_Tyrrell </p>***
