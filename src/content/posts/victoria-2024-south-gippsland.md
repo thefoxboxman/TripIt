@@ -28,7 +28,7 @@ author: John
 <h3 style="text-align:center; "> Lakes Entrance - Sale - Yarram. </h3>
 
 
- We thought was our final distingation for the day would be Sale. Though pleasant, Sale is another large regional town and it just did't inspire us to stay.
+ We thought our final destination for the day would be Sale. Though pleasant, Sale is another large regional town and it just did't inspire us to stay.
 <br />
 We drove on to our next planned stay at Yarram. It was love at first sight.
 
@@ -37,8 +37,8 @@ We drove on to our next planned stay at Yarram. It was love at first sight.
  ***<p style="text-align:center; "> The Shearer and his dog - Heesco_Mural_Yaram </p>***
 
 The Yarram community and Heesco Khosnaran, who is a Melbourne based street artist, combined to install 24 murals on the buildings in and around Yarram. This has lead to a "street art" inspired rerenaissance for the previously fading village.
-This a link to the Yarram Hesscotown project: https://heescotown.com
-This a link to Heesco Khosnaran's other work: https://www.heesco.com/portfolio 
+This is a link to the Yarram Hesscotown project: https://heescotown.com
+This is a link to Heesco Khosnaran's other work: https://www.heesco.com/portfolio 
 Below are a few of the other murals Jenelle photographed around Yarram.
 
 ![img](../../Images/South_Gippsland/Heesco_Mural_Yaram_3_P1064716.jpg)
@@ -64,7 +64,7 @@ Below are a few of the other murals Jenelle photographed around Yarram.
 
 <h2 style="text-align:center; "> Day 18 - 8th Nov</h2>
 
-<h3 style="text-align:center; "> Yarram - Agnes Falls - Weshpool - Port Albert - Yarram. </h3>
+<h3 style="text-align:center; "> Yarram - Agnes Falls - Welshpool - Port Albert - Yarram. </h3>
 
 ![img](../../Images/South_Gippsland/Agnes_Falls_Yaram.jpg)
  ***<p style="text-align:center; "> Agnes_Falls_Yaram </p>***
@@ -74,17 +74,17 @@ Below are a few of the other murals Jenelle photographed around Yarram.
 
  
 ![img](../../Images/South_Gippsland/Dairy_Country_Yaram_P1411854.jpg)
- ***<p style="text-align:center; "> airy Country </p>***
+ ***<p style="text-align:center; "> Dairy Country </p>***
 
 
 ![img](../../Images/South_Gippsland/Dairy_Country_Yaram_2_P1411864-Pano.jpg)
  ***<p style="text-align:center; "> Zoomed out Dairy Country </p>***
 
 
-Down to the coast again for breakfast at Port Weshpool.
+Down to the coast again for breakfast at Port Welshpool.
 
 ![img](../../Images/South_Gippsland/Port_Weshpool_Jetty_P1064731.jpg)
- ***<p style="text-align:center; "> Port_Weshpool_Jetty</p>***
+ ***<p style="text-align:center; "> Port_Welshpool_Jetty</p>***
 
  
 Then just around the corner to Port Albert.
