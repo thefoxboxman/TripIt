@@ -101,7 +101,7 @@ The Great Ocean Road hugs the coastline and cliff tops from Anglesea to Apollo B
 <h3 style="text-align:center; "> Apollo Bay - Port Campbell </h3>
 
 The Great Ocean Road between Apollo Bay and Port Campbell was closed due to bushfires.
-This meant wehad to make a detour up over the Ottway Ranges via Colac.
+This meant we had to make a detour up over the Otway Ranges via Colac.
 
 ![img](../../Images/Great_Ocean_Road_Part_1/Otway_Ranges_Rainforest_IIMG_6369.jpg)
  ***<p style="text-align:center; ">Otway_Ranges_Rainforest </p>***
@@ -111,15 +111,6 @@ This meant wehad to make a detour up over the Ottway Ranges via Colac.
 
  ![img](../../Images/Great_Ocean_Road_Part_1/Colac_Farm_Shop_Fudge_IMG_6428.jpg)
  ***<p style="text-align:center; ">Colac_Farm_Shop_Fudge </p>***
-
-![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_1_DSC8262.jpg)
- ***<p style="text-align:center; ">Port_Campbell_1 </p>***
-
-![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_2_DSC8263.jpg)
- ***<p style="text-align:center; ">Port_Campbell_2 </p>***
-
-![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_3_DSC8348.jpg)
- ***<p style="text-align:center; ">Port_Campbell_3 </p>***
 
 ![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_Beach_P1412268.jpg)
  ***<p style="text-align:center; ">Port_Campbell_Beach </p>***
@@ -146,7 +137,13 @@ Port Campbell is the epi-centre of the Great Ocean Road iconic scenery. Today we
  ***<p style="text-align:center; ">The_Twelve_Apostles_Great_Ocean_Road </p>***
 
 ![img](../../Images/Great_Ocean_Road_Part_1/Twelve_Apostles_Great_Ocean_Road_3_P1075014.jpg)
- ***<p style="text-align:center; ">The_Twelve_Apostles\_\_3* </p>***
+ ***<p style="text-align:center; ">The_Twelve_Apostles 3* </p>***
+
+ ![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_1_DSC8262.jpg)
+ ***<p style="text-align:center; ">East of The_Twelve_Apostles </p>***
+
+![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_2_DSC8263.jpg)
+ ***<p style="text-align:center; ">East of The_Twelve_Apostles </p>***
 
 ![img](../../Images/Great_Ocean_Road_Part_1/Loch_Ard_Gorge_Great_Ocean_Road_1_P1075048.jpg)
  ***<p style="text-align:center; ">Loch_Ard_1 </p>***
@@ -195,6 +192,9 @@ Port Campbell is the epi-centre of the Great Ocean Road iconic scenery. Today we
 
 
  ![img](../../Images/Great_Ocean_Road_Part_1/Bay_of_Islands_1_Great_Ocean_Road_P1075246.jpg)
+ ***<p style="text-align:center; ">Bay_of_Islands </p>***
+
+ ![img](../../Images/Great_Ocean_Road_Part_1/Port_Campbell_3_DSC8348.jpg)
  ***<p style="text-align:center; ">Bay_of_Islands </p>***
 
  ![img](../../Images/Great_Ocean_Road_Part_1/Childers_Cove_DJI_0714-Pano.jpg)
