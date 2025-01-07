@@ -44,7 +44,7 @@ Today's route is straight up the M31 onto the M1 trough Sydney (avoiding Toll ro
 ![img](../../Images/Return_Trip/Map_Gundagai_Deerubbun_IMG_0131.jpg)
 ***<p style="text-align:center; "> Map_Gundagai_Deerubbun Rest Stop </p>***
 
-From Deerubbun we continued north pass Newcastle parking up in Harrington/Crowdy Head on the coast near Tarree.
+From Deerubbun we continued north past Newcastle parking up in Harrington/Crowdy Head on the coast near Tarree.
 <br/>
 Total milage today was just over 700km which took about 10 hours of travel time. All this on motorways with no slow traffic.
 
@@ -126,7 +126,7 @@ Rest day at Harrington.
 
 
 
-Overnight stop only....be here before a couple of times. Mainly to go to the bakery.
+Overnight stop only....been here before a couple of times. Mainly to go to the amazing Woopi bakery.
 
 <h2 style="text-align:center; "> Day 50 - 10th Dec</h2>
 
