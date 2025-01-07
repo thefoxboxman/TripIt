@@ -28,19 +28,19 @@ author: John
 <h3 style="text-align:center; "> Batesmans Bay to Mallacotta. </h3>
 
 
-What a drive. Nearly 300km through forest along the foothills of The Great Dividing Range. No where in the 300km is the road either straight, level or without potholes patched and unpatched. The one exception was the first few 'k' into Victoria. Magnificent road. "Ah we thought" Victoria knows how to do it, but the road soon deteriorated back to NSW country road standard.
+What a drive. Nearly 300km through forest along the foothills of The Great Dividing Range. No where in the 300km is the road either straight, level or without potholes patched and unpatched. The one exception was the first few 'km' into Victoria. Magnificent road. "Ah we thought" Victoria knows how to do it, but the road soon deteriorated back to NSW country road standard.
 
 Road kill was commonly wombats. Easily 15 or 20 along the drive.
 
-We parked up beside the Mallcoota Inlet, then headed for the nearby Mallacoota bakery to buy our lunch of pies, pastries and sourdough.
+We parked up beside the Mallcoota Inlet, then headed to the nearby Mallacoota Bakery to buy our lunch of pies, pastries and sourdough.
 
-We checked into the caravan park and discovered only something Victorian know. This weekend was the Melbourne Cup long weekend and that we better forward book some accomodation for our next stop (Marlo) pronto. Luckily we just got a site. 
+We checked into the caravan park and discovered only something Victorians know. This weekend was the Melbourne Cup four day long weekend and that we better forward book some accomodation for our next stop (Marlo) pronto. Luckily we just got a site. 
 
 <h2 style="text-align:center; "> Day 11 - 1st Nov</h2>
 
 <h3 style="text-align:center; "> Mallacoota </h3>
 
- We spent the day roaming around Mallacoota and environs.The town was heaving with visitors despite  it being in the middle of nowhere. 
+ We spent the day roaming around Mallacoota and environs.The town was heaving with visitors despite it being in the middle of nowhere. 
 
 ![img](../../Images/East_Gippsland/Mallacoota_Inlet__DSC7303.jpg)
  ***<p style="text-align:center; "> Mallacoota_Inlet </p>***
@@ -56,9 +56,9 @@ We checked into the caravan park and discovered only something Victorian know. T
 
 <h3 style="text-align:center; "> Mallacoota - Orbost - Marlo. </h3>
 
-Before we left Mallacoota we stocked up at the fabled bakery. We had ordered one of their special "Biscotti Cheesecakes" so we had to go. 
+Before we left Mallacoota we stocked up at the fabled Bakery. We had ordered one of their special "Biscotti Cheesecakes". 
 
-Another day of driving along the eastern foothills of The Great Divide to get to Marlo.  A distance of 150km with just two towns along the way; Cann River (just a truck stop really) and Orbost. Orbost is a quaint olde village that services the huge dairying industry that surrounds it. Orbost is the beginning of what we came to realise was the massive dairy industry of Gippsland. Orbost is built on the banks of the once great Snow River. From Orbost we follow the Snowy River to it's mouth at Marlo. Luckily we had booked in advance because the substantial caravan park is cockers.
+Another day of driving along the eastern foothills of The Great Divide to get to Marlo.  A distance of 150km with just two towns along the way; Cann River (just a truck stop really) and Orbost. Orbost is a quaint olde village that services the huge dairying industry that surrounds it. Orbost is the beginning of what we came to realise was the massive dairy industry of Gippsland. Orbost is built on the banks of the once great Snowy River. From Orbost we followed the Snowy River to it's mouth at Marlo. Luckily we had booked in advance because the substantial caravan park is chockers.
 
 
 ![img](../../Images/East_Gippsland/Orbost_Tressel_Bridge_DSC7517.jpg)
@@ -104,11 +104,11 @@ We came to Marlo specifically to visit the picturesque Cape Conran and the nearb
  ***<p style="text-align:center; "> Protea or Waratah? </p>***
 
 
-<h2 style="text-align:center; "> Day 13 3rd Nov</h2>
+<h2 style="text-align:center; "> Day 13 - 3rd Nov</h2>
 
 <h3 style="text-align:center; "> Marlo - Lakes Entrance </h3>
 
-Lakes Entrance is more like entrance to a huge inland sea. Being only 400km from Melboure CBD (300km of 4 lane highway) it no wonder the place is jam packed with people. And to max out visitor numbers the Melbourne Cup long weekend has coincided with the Hindu festival of Dewali. 
+Lakes Entrance is more like "Entrance to a huge inland sea". Being only 400km from Melboure CBD (300km of 4 lane highway) it is no wonder the place is jam packed with people. And to max out visitor numbers the Melbourne Cup long weekend has coincided with the Hindu festival of Dewali. 
 We were lucky to get into the Silver Sands Caravan Park in the heart of Lakes Entrance town. Walk to everything close. We booked 2 nights and ended up staying 4. 
 
 ![img](../../Images/East_Gippsland/Lakes_Entrance_DJI_0687-Pano.jpg)
@@ -128,20 +128,20 @@ We were lucky to get into the Silver Sands Caravan Park in the heart of Lakes En
  ***<p style="text-align:center; "> Wooden_Sculpture </p>***
 
 ![img](../../Images/East_Gippsland/Lakes_Entrance_DSC7571-Edit.jpg)
- ***<p style="text-align:center; "> Mum & Bub </p>***
+ ***<p style="text-align:center; "> Stand Off </p>***
 
 ![img](../../Images/East_Gippsland/Lakes_Entrance_DSC7550-Edit.jpg)
  ***<p style="text-align:center; "> Nap Time </p>***
 
 
-<h2 style="text-align:center; "> Day 14 4th Nov</h2>
+<h2 style="text-align:center; "> Day 14 - 4th Nov</h2>
 
 <h3 style="text-align:center; "> Lakes Entrance. </h3>
 
 
 Spent the day just wandering town and forshore mainly on foot.
 
-<h2 style="text-align:center; "> Day 15 5th Nov (Melbourne Cup Day)</h2>
+<h2 style="text-align:center; "> Day 15 - 5th Nov (Melbourne Cup Day)</h2>
 
 <h3 style="text-align:center; "> Lakes Entrance - Paynesville. </h3>
 
@@ -150,11 +150,11 @@ The Mitchel River at it's mouth has formed silt jetties over 8km long. The road 
 ![img](../../Images/East_Gippsland/Paynesville_Silt_Jetties_DJI_0698.jpg)
  ***<p style="text-align:center; "> Silt Jetties </p>***
 
-<h2 style="text-align:center; "> Day 16 6th Nov</h2>
+<h2 style="text-align:center; "> Day 16 - 6th Nov</h2>
 
 <h3 style="text-align:center; "> Lakes Entrance to Bairnsdale. </h3>
 
-While Lakes Entrance is tourist orientated the surrounding towns and village are very agricultural centric. The largest of these towns is Bairnsdale which is really the main shopping hub of the region. 
+While Lakes Entrance is tourist orientated the surrounding towns and villages are very agricultural centric. The largest of these towns is Bairnsdale which is really the main shopping hub of the region. 
 
 ![img](../../Images/East_Gippsland/St_Marys_Bairnsdale_P1411793.jpg)
  ***<p style="text-align:center; "> St. Marys Catholic Church Bairnsdale </p>***
