@@ -1,7 +1,6 @@
 ---
 // This is layout for main page (home page)
 
-
 import { getCollection } from "astro:content";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import HeroCard from "@components/HeroCard.astro";
@@ -14,6 +13,8 @@ allPosts.sort(
   (a, b) =>
     new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
 );
+// this reverses posts to oldest first
+allPosts.reverse();
 
 const postsPerPage = 15;
 const firstPagePosts = allPosts.slice(0, postsPerPage);
