@@ -61,7 +61,7 @@ author: John
 
   Leaving Byron Bay to the trendy set, we headed into the hinterland to visit the Killen Falls.
 
- ![img](../../Images/NSW_North_Coast/Byron-Bay_Lighthouse_DSC6803.jpg)
+ ![img](../../Images/NSW_North_Coast/Cape_Byron_lighthouse_DSC6817.jpg)
  ***<p style="text-align:center; "> Cape Bryon Lighthouse </p>***
  
  
