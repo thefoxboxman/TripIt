@@ -1,4 +1,9 @@
 ---
+//"related post card" shows a selection of posts at
+//the bottom of the current post being displayed.
+// This will generally be 3 posts in related to the post being displayed in full
+// same tag and sorted by date (newest first)
+
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
 import OptimizedCover from "@components/OptimizedPicture.astro";
@@ -14,11 +19,11 @@ async function getRelatedArticlesByCategory(): Promise<
     .filter(
       (post) =>
         post.data.category.includes(currentCategory) &&
-        post.slug !== currentSlug,
+        post.slug !== currentSlug
     )
     .sort(
       (a, b) =>
-        new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf(),
+        new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
     )
     .slice(0, 3);
 }
